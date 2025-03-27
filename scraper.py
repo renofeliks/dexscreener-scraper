@@ -15,7 +15,7 @@ TELEGRAM_BOT_TOKEN = ""
 TELEGRAM_CHAT_ID = ""
 
 # File to store previous holders data
-previous_data_file = r"C:\Users\renof\tu\Dokumendid\CVProjects\dexscreener-scraper\holders_data.csv"
+previous_data_file = ""
 
 # Initialize URL (example DexScreener coin url)
 url = "https://dexscreener.com/solana/9kgswjrkczs3ebukvbkbgdwj8bwtdwzzqxkufdhaps2a"
